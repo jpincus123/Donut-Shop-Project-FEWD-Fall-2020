@@ -1,0 +1,47 @@
+body {
+background-color: #e3dac9;
+padding: 0;
+
+}
+
+h1 {
+color: #887269;
+font-family: 'Architects Daughter', cursive;
+padding-left: 20px;
+font-size: 48px;
+text-align: center;
+
+}
+
+h2{
+    color: ;
+    padding-left: 20px;
+    font-family: Open Sans Condensed;
+
+}
+
+.landing {
+    background-size: cover;
+    opacity: 0.8;
+    width: 100%;
+
+
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.hometext {
+    font-family: 'Open Sans Condensed', sans-serif;
+    max-width: viewport-length;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+
+/* font-family: 'Architects Daughter', cursive;
+font-family: 'Open Sans Condensed', sans-serif; */
+
+/* colors E3DAC9 for image backgrounds */
